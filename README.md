@@ -44,10 +44,14 @@ This project introduces **Exploratory Data Analysis (EDA)** using notebooks.
 When we encounter a new dataset, we want to explore quickly:
 run checks, view distributions, identify missing values or outliers.
 Notebooks combine Markdown narrative with Python code cells
-and are ideal for this kind of investigation.
+and are ideal for this kgind of investigation.
 
 You will run the example notebook, read the code and narrative,
 and create your own project to explore a tabular dataset.
+
+## Changes Made
+
+I added an observability metric (validation check: missing data) to the notebook data file to identify which metrics had the most missing values - after running the check it returned that gender has the largest amount of missing values (at 11) compared to others, which were at 2 missing components or less.
 
 ## Produced Artifacts
 
@@ -221,6 +225,8 @@ Press `Ctrl c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 ## Documentation
 
 - [Documentation](https://github.com/KCKC1001/datafun-04-eda)
+
+Updated notebook copy with a missing data analysis - gender returned the most missing values (11) compared to others.
 
 ## Data Card
 
