@@ -13,7 +13,7 @@
 > Professional Python project: exploratory data analysis
 > including marimo and Jupyter notebooks.
 
-Notebooks combine narration and code.
+Notebooks combine narration and code. I thought this was pretty cool when it ran additional analysis automatically.
 This project conducts an EDA using Python and also demonstrates
 two notebook options:
 
@@ -117,7 +117,7 @@ Follow the guide for the **full instructions**.
 Open a machine terminal in your `Repos` folder:
 
 ```shell
-git clone https://github.com/denisecase/datafun-04-eda
+git clone https://github.com/KCKC1001/datafun-04-eda
 
 cd datafun-04-eda
 code .
@@ -220,7 +220,7 @@ Press `Ctrl c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 
 ## Documentation
 
-- [Documentation](https://denisecase.github.io/datafun-04-eda/)
+- [Documentation](https://github.com/KCKC1001/datafun-04-eda)
 
 ## Data Card
 
